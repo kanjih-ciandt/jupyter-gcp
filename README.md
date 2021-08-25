@@ -8,3 +8,5 @@ Some examples of how to use GCP Features with Python
 
  - **BQ-All-Table-Dateset** - Example of how to get all table in all dataset from a project
 
+ - **IAM** - Example of how to set and remove POLICY
+
