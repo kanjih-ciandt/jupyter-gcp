@@ -1,0 +1,7 @@
+google-cloud
+google-api-python-client
+oauth2client
+SQLAlchemy==1.4.27
+PyMySQL==1.0.2
+tink==1.6.1
+cloud-sql-python-connector[pymysql]
