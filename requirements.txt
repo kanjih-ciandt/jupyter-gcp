@@ -1,7 +1,13 @@
 google-cloud
 google-api-python-client
 oauth2client
-SQLAlchemy
-PyMySQL
-tink
+SQLAlchemy==1.4.27
+PyMySQL==1.0.2
+tink==1.6.1
 cloud-sql-python-connector[pymysql]
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-redis
+google-cloud-memcache
+redis==4.0.0
+pymemcache
